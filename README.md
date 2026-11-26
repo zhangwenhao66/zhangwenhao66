@@ -10,5 +10,7 @@ I build small, single-purpose web tools and publish the data behind them when it
 | [DIY Concrete Calc](https://diyconcretecalc.com/) | Cubic yards and 40–80 lb bag counts for slabs, footings, columns and steps | [concrete-bag-yields](https://github.com/zhangwenhao66/concrete-bag-yields): per-bag yields with data-sheet sources |
 | [Paper Generator](https://paper-generator.com/) | Printable graph and lined paper as true-scale vector PDFs | [true-scale-graph-paper](https://github.com/zhangwenhao66/true-scale-graph-paper): dependency-free PDF script |
 | [GTA 6 Cheats](https://gtacheats6.com/) | GTA 6 cheat codes for PS5 and Xbox, confirmed vs unconfirmed | [gta6-cheats-json](https://github.com/zhangwenhao66/gta6-cheats-json) |
-| [scloudconvert](https://scloudconvert.com/) | SoundCloud to MP3 for tracks the uploader allows; points to the official download first | — |
-| [Stories Download](https://storiesdownload.com/) | Save a public Instagram Story photo or video in HD, no app and no login | — |
+| [scloudconvert](https://scloudconvert.com/) | SoundCloud to MP3 for tracks the uploader allows; points to the official download first | [soundcloud-audio-check](https://github.com/zhangwenhao66/soundcloud-audio-check): check real bitrate and tags of saved audio |
+| [Stories Download](https://storiesdownload.com/) | Save a public Instagram Story photo or video in HD, no app and no login | [instagram-export-stories](https://github.com/zhangwenhao66/instagram-export-stories): sort your own exported Stories by date |
+
+Project pages: https://zhangwenhao66.github.io/
