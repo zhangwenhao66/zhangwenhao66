@@ -12,5 +12,6 @@ I build small, single-purpose web tools and publish the data behind them when it
 | [GTA 6 Cheats](https://gtacheats6.com/) | GTA 6 cheat codes for PS5 and Xbox, confirmed vs unconfirmed | [gta6-cheats-json](https://github.com/zhangwenhao66/gta6-cheats-json) and an OBS overlay: [gta6-cheat-overlay](https://github.com/zhangwenhao66/gta6-cheat-overlay) |
 | [scloudconvert](https://scloudconvert.com/) | SoundCloud to MP3 for tracks the uploader allows; points to the official download first | [soundcloud-audio-check](https://github.com/zhangwenhao66/soundcloud-audio-check): check real bitrate and tags of saved audio |
 | [Stories Download](https://storiesdownload.com/) | Save a public Instagram Story photo or video in HD, no app and no login | [instagram-export-stories](https://github.com/zhangwenhao66/instagram-export-stories): sort your own exported Stories by date |
+| [AI Video Directory](https://aivideodirectory.com/) | Hand-checked index of AI video tools and models: clip length, resolution, audio, real free tiers | [ai-video-model-specs](https://github.com/zhangwenhao66/ai-video-model-specs): model specs as JSON/CSV with official sources |
 
 Project pages: https://zhangwenhao66.github.io/
